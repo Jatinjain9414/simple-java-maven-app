@@ -15,4 +15,4 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
 Hello
-Testing jenkins pipeline
+Testing jenkins pipeline CI/CD
